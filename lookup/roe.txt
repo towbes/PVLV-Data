@@ -1,4 +1,163 @@
 id;name;max
+$EC3;Gobbie Mystery Box (M)
+$EC6;Chocobo Races (M)
+$EC9;Walk of Echoes (M)
+$ECC;High-Tier Mission Battlefields (M)
+$FF2;Vanquish Multiple Enemies (D)
+$FF3;Buff Allies (D)
+$FF4;Heal for 500+ HP (D)
+$BDC;Unity Communique E (UC)
+$BDD;Home Point Comrade E (UC)
+$BDE;Vanquish Multiple Enemies E (UC)
+$BDF;Vanquish Plantoids E (UC)
+$BE0;Van. Arcana with Ph. Damage E (UC)
+$BE1;Vanquish Undead with Magic E (UC)
+$BE2;Total Suc. Cook. Syntheses E (UC)
+$BE3;Total Saltwater Catches E (UC)
+$BE4;Total Suc. Logging Attempts E (UC)
+$BF3;Van. Enemies w. Unity Leader E (UC)
+$E63;Spoils (Dullahan Armor) (UC)
+$E64;Conflict: Outer Ra'Kaznar (UC)
+$E65;Vanquish Dullahan (UC)
+$E66;Subj.: Capricious Cassie (UC)
+$E67;Magic Bursts (UC)
+$331;Subjugation: Hugemaw Harold (UC)
+$332;Subjugation: Bounding Belinda (UC)
+$333;Subjugation: Prickly Pitriv (UC)
+$334;Subjugation: Ironhorn Baldurno (UC)
+$335;Subjugation: Sleepy Mabel (UC)
+$336;Subjugation: Valkurm Imperator (UC)
+$337;Subjugation: Serpopard Ninlil (UC)
+$338;Subjugation: Abyssdiver (UC)
+$339;Subjugation: Intuila (UC)
+$33A;Subjugation: Emperor Arthro (UC)
+$33B;Subjugation: Orcfeltrap (UC)
+$33C;Subjugation: Lumber Jill (UC)
+$33D;Subjugation: Joyous Green (UC)
+$33E;Subjugation: Strix (UC)
+$33F;Subjugation: Warblade Beak (UC)
+$340;Subjugation: Arke (UC)
+$341;Subjugation: Largantua (UC)
+$342;Subjugation: Beist (UC)
+$343;Subjugation: Jester Malatrix (UC)
+$344;Subjugation: Cactrot Veloz (UC)
+$345;Subjugation: Woodland Mender (UC)
+$356;Subjugation: Sybaritic Samantha (UC)
+$357;Subj.: Keeper of Heiligtum (UC)
+$358;Subjugation: Douma Weapon (UC)
+$359;Subjugation: King Uropygid (UC)
+$35A;Subjugation: Vedrfolnir (UC)
+$35B;Subjugation: Immanibugard (UC)
+$35C;Subjugation: Tiyanak (UC)
+$35D;Subjugation: Muut (UC)
+$35E;Subjugation: Camahueto (UC)
+$35F;Subjugation: Voso (UC)
+$360;Subjugation: Mephitas (UC)
+$361;Subjugation: Coca (UC)
+$362;Subjugation: Ayapec (UC)
+$363;Subjugation: Specter Worm (UC)
+$364;Subjugation: Azrael (UC)
+$365;Subjugation: Borealis Shadow (UC)
+$37B;Subjugation: Garbage Gel (UC)
+$37C;Subjugation: Bakunawa (UC)
+$37D;Subjugation: Azure-tooth. Claw. (UC)
+$382;Subjugation: Centurio XX-I (UC)
+$380;Subjugation: Kub. Ja's Mhuufya (UC)
+$383;Subjugation: Vidmapire (UC)
+$37E;Subjugation: Vermillion Fishfly (UC)
+$37F;Subjugation: Volatile Cluster (UC)
+$381;Subjugation: Grand Grenade (UC)
+$392;Subjugation: Sovereign Behem. (UC)
+$393;Subjugation: Hidhaegg (UC)
+$394;Subjugation: Tolba (UC)
+$396;Subjugation: Carousing Celine (UC)
+$397;Subjugation: Glazemane (UC)
+$398;Subjugation: Bambrox (UC)
+$399;Subjugation: Thu'ban (UC)
+$39A;Subjugation: Sarama (UC)
+$39B;Subjugation: Shedu (UC)
 $00C;Vanquish Multiple Enemies I;200
+$D;Vanquish Multiple Enemies II
+$F;Level Sync to Vanquish Enemies I
+$75;Level Sync to Vanq. Enemies II
 $010;Deal 500+ Damage;200
+$14;Deal 110-120 Damage
+$15;Deal 310-320 Damage
+$16;Deal 510-520 Damage
+$17;Deal 1110-1120 Damage
+$1D;Total Damage I
+$1F;Total Healing I
+$21;Total Damage Taken I
+$2D;Weapon Skills I
+$1E8;Heal for 500+ HP
+$47;Spoils (Fire Crystal)
+$48;Spoils (Ice Crystal)
+$49;Spoils (Wind Crystal)
 $04A;Spoils (Earth Crystal);10
+$4B;Spoils (Lightning Crystal)
+$4C;Spoils (Water Crystal)
+$4D;Spoils (Light Crystal)
+$4E;Spoils (Dark Crystal)
+$54;Spoils (Flame Geode)
+$55;Spoils (Snow Geode)
+$56;Spoils (Breeze Geode)
+$57;Spoils (Soil Geode)
+$58;Spoils (Thunder Geode)
+$59;Spoils (Aqua Geode)
+$5A;Spoils (Light Geode)
+$5B;Spoils (Shadow Geode)
+$5C;Spoils (Ifritite)
+$5D;Spoils (Shivite)
+$5E;Spoils (Garudite)
+$5F;Spoils (Titanite)
+$60;Spoils (Ramuite)
+$61;Spoils (Leviatite)
+$62;Spoils (Carbite)
+$63;Spoils (Fenrite)
+$78;Spoils (Bat Wing)
+$79;Spoils (Black Tiger Fang)
+$7A;Spoils (Flint Stone)
+$7B;Spoils (Rabbit Hide)
+$7C;Spoils (Honey)
+$7D;Spoils (Sheepskin)
+$7E;Spoils (Lizard Skin)
+$7F;Spoils (Beetle Shell)
+$80;Spoils (Zeruhn Soot)
+$81;Spoils (Silver Name Tag)
+$82;Spoils (Quadav Helm)
+$84;Spoils (Treant Bulb)
+$85;Spoils (Wild Onion)
+$86;Spoils (Sleepshroom)
+$87;Spoils (Sand Bat Fang)
+$88;Spoils (Zinc Ore)
+$89;Spoils (Giant Bird Feather)
+$8A;Spoils (Three-leaf Mandragora Bud)
+$8B;Spoils (Four-leaf Mandragora Bud)
+$8C;Spoils (Cornette)
+$8D;Spoils (Yuhtunga Sulfur)
+$8E;Spoils (Snobby Letter)
+$8F;Spoils (Yagudo Bead Necklace)
+$90;Spoils (Woozyshroom)
+$91;Spoils (Beehive Chip)
+$92;Spoils (Remi Shell)
+$93;Spoils (Twinstone Earring)
+$D7;Conflict: West Ronfaure
+$D8;Subjugation: Jaggedy-Eared Jack
+$D9;Conflict: East Ronfaure
+$DA;Subjugation: Swamfisk
+$DB;Conflict: Ghelsba Outpost
+$DC;Subjugation: Thousandarm Deshglesh
+$E5;Conflict: Valkurm Dunes
+$E6;Subjugation: Valkurm Emperor
+$E7;Conflict: Konschtat Highlands
+$E8;Subjugation: Bendigeit Vran
+$F1;Conflict: Batallia Downs
+$F2;Subjugation: Lumber Jack
+$F7;Conflict: North Gustaberg
+$F8;Subjugation: Maighdean Uaine
+$F9;Conflict: South Gustaberg
+$FA;Subjugation: Carnero
+$FB;Conflict: Zeruhn Mines
+$FC;Conflict: Palborough Mines
+$FE;Conflict: Dangruf Wadi
+$FF;Subjugation: Teporingo
